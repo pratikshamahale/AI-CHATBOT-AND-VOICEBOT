@@ -2,6 +2,8 @@
 
 🤖 Interactive AI Chatbot & Voice Chatbot enables natural conversations through text and voice. Powered by NLP, speech recognition, and TTS, it provides real-time responses for support, learning, or personal use. Extendable to multilingual chats and deployable on web or mobile apps. 🤖 Interactive AI Chatbot & Voice Chatbot 📖 Overview The Interactive AI Chatbot & Voice Chatbot is a conversational AI project that allows users to interact through both text and voice commands. It uses NLP for natural text conversations and speech recognition + text-to-speech (TTS) for voice interactions. Designed for customer support, personal assistance, and educational use.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5175a08f-a3f4-4c5a-b01e-c1e253ca4007" />
+
 # 🚀 Features
 
 💬 Real-time text-based chatbot.
